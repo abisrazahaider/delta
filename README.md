@@ -1,2 +1,0 @@
-# delta
-This is demo
